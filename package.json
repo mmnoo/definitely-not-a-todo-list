@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel ./src/index.html"
+    "start": "parcel ./src/index.html",
+    "prettier": "prettier --write ./src/**/*.js "
   },
   "author": "",
   "license": "ISC",
